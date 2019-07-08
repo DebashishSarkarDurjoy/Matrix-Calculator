@@ -1,3 +1,4 @@
+# Python code to add, subtract and multiply matrices.
 def multiply(m1, m2):
     m1_column = len(m1[0])
     m2_row = len(m2)
